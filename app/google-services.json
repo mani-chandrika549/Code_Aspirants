@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546479336338",
+    "project_id": "abha-onboarder",
+    "storage_bucket": "abha-onboarder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546479336338:android:2fbe9bed9c916e375c6f4b",
+        "android_client_info": {
+          "package_name": "com.example.abhaonboarding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0NdGKfL7RnubXnuS0Yn9ZnhSk1C-DFCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
